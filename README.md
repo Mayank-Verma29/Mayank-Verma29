@@ -20,7 +20,7 @@ Aspiring Data Analyst/Data Scientist
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Python(Pandas,Numpy,Seaborn,Matplotlib)  
 - Advanced MySQL
@@ -31,7 +31,7 @@ Aspiring Data Analyst/Data Scientist
 
 ---
 
-## 📊 Tools & Technologies
+## Tools & Technologies
 
 -  Pandas
 -  NumPy
@@ -41,10 +41,10 @@ Aspiring Data Analyst/Data Scientist
 
 ---
 
-## 📫 Contact
+## Contact
 
-🔗 LinkedIn: https://www.linkedin.com/in/mayank-verma-a609723b1/ 
-📧 Email: Mayankverma290404@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mayank-verma-a609723b1/ 
+- Email: Mayankverma290404@gmail.com
 
 ---
 
