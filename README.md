@@ -6,18 +6,29 @@ Aspiring Data Analyst/Data Scientist
 
 ## Projects
 
-1) Customer Churn Prediction (Machine Learning)  
-- Built ML model to predict customer churn  
-- Used Python, Pandas, Scikit-learn  
+1) Customer Churn Prediction
+- Built a machine learning model to predict customer churn using classification algorithms
+- Performed data cleaning and feature engineering
+- Conducted exploratory data analysis (EDA) to understand customer patterns
+- Evaluated model performance using accuracy and confusion matrix
 
-2) Amazon Sales Dashboard  
-- Interactive dashboard using Power BI  
-- Analyzed sales trends and KPIs  
+2) Customer Behaviour Analysis
+- Analyzed customer data to identify purchasing patterns and trends
+- Cleaned and processed raw data for accurate analysis
+- Performed EDA and created visualizations for insights
+- Identified customer segments to support targeted strategies
 
-3) Customer Behaviour Analysis  
-- Performed data cleaning and analysis  
-- Extracted insights using SQL & Python  
+3) Amazon Sales Data Analysis 
+- Analyzed sales data using SQL and Excel
+- Built an interactive dashboard using Power BI
+- Identified top-performing products and revenue trends
+- Generated business insights through data visualization
 
+4) Product Recommendation System
+- Built a recommendation system using collaborative filtering
+- Applied cosine similarity to identify similar products
+- Generated personalized product recommendations
+- Deployed the system using Streamlit for real-time interaction
 ---
 
 ## Skills
